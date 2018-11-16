@@ -1,10 +1,10 @@
 body {
-    background:orange;
+    background:green;
     line-height: 1.25;
 }
 
 h1 {
-    color: purple;
+    color: yellow;
     font-size: 200px;
     text-transform: uppercase;
 }
